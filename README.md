@@ -1,4 +1,4 @@
-# Welcome, I'm Nyah
+# Hi There, I'm Nyah
 <a href="https://linkedin.com/in/nyah-hepburn/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 I’m a cybersecurity fellow with hands-on experience in cloud security, network defense, and threat analysis. I enjoy building secure environments and applying my skills to protect and strengthen digital systems.
