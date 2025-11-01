@@ -1,0 +1,83 @@
+/* --- Color Palette --- */
+:root {
+  --color-navy: #192A56;      /* Deep Navy (Primary Base/Text) */
+  --color-saffron: #F9CA24;   /* Saffron/Gold (Primary Accent/Buttons/Accents) */
+  --color-electric-blue: #3498DB; /* Electric Blue (Links/Borders) */
+  --color-off-white: #F4F4F9; /* Off-White (Background) */
+}
+
+/* --- Base Styles --- */
+body {
+  font-family: 'Roboto', sans-serif; /* Body font for readability */
+  background-color: var(--color-off-white); /* Requested Background Color */
+  color: var(--color-navy); /* Deep Navy Text */
+  line-height: 1.6;
+  margin: 0;
+  padding: 0;
+}
+
+.container {
+    max-width: 800px;
+    margin: 50px auto;
+    padding: 20px 40px;
+    background-color: white; /* Optional: Makes content block stand out */
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+/* --- Typography (Fonts) --- */
+h1 {
+  font-family: 'Poppins', sans-serif; /* Bold Font for Header */
+  color: var(--color-saffron); /* Bright/Bold Accent Color */
+  font-size: 2.5em;
+  margin-bottom: 0.1em;
+}
+
+h2, h3 {
+  font-family: 'Poppins', sans-serif; /* Bold Font for Sections */
+  color: var(--color-navy);
+  font-size: 1.8em;
+  border-bottom: 3px solid var(--color-electric-blue); /* Electric Blue Divider */
+  padding-bottom: 5px;
+  margin-top: 40px;
+}
+
+/* Paragraphs and Lists (using Roboto) */
+p {
+    font-size: 1.1em;
+}
+
+/* --- Links and Tables --- */
+a {
+  color: var(--color-electric-blue);
+  text-decoration: none;
+  font-weight: 700;
+  transition: color 0.3s ease;
+}
+
+a:hover {
+  color: var(--color-saffron); /* Links turn saffron on hover */
+}
+
+/* Table styling for Skills section */
+table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 15px;
+}
+th, td {
+    padding: 10px;
+    text-align: left;
+    border: 1px solid #ddd;
+}
+th {
+    background-color: var(--color-off-white);
+    font-family: 'Poppins', sans-serif;
+    font-weight: 700;
+}
+
+/* Badge Layout */
+.badges img {
+    margin-right: 5px;
+    margin-bottom: 10px;
+}
