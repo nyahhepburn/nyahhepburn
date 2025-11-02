@@ -3,21 +3,32 @@
 
 I’m a cybersecurity fellow with hands-on experience in cloud security, network defense, and threat analysis. I enjoy building secure environments and applying my skills to protect and strengthen digital systems.
 
-## 📌 Objective
+## 📌 My Focus
 
 My journey in technology has fueled a growing passion for understanding how systems stay secure in an ever-changing digital world. As an aspiring cybersecurity analyst, I’m excited to continue developing my skills in cloud security and network defense while contributing to creating safer, more resilient environments.
 
+## 🚀 Projects
+
+| Project | Key Focus | My Primary Role | Link |
+| :--- | :--- | :--- | :--- |
+| **Cloud Security Training Environment in AWS** | **VPC Architecture & GRC Compliance** | Network & Security Lead | [View Project 1](PROJECT-1-AWS.md) |
+| **Infrastructure Security Lab Environment** | **Firewall (OPNsense) & IDS (Snort)** | Virtualization & Security Lead | [View Project 2](PROJECT-2-LAB.md) |
+| **Global Viral Research Defense Center (In Progress)** | Current Group Project | TBD | |
+
+---
+
 ## ⚙️ Skills
 
-| Skill                                         | Associated Project         |
+| Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| Cloud Security Architecture and Threat Detection          | Cloud Security Training Environment in AWS</a>|
-| Firewall Configuration and Traffic Analysis | Infrastructure Security Lab Environment</a>|
-| Intrusion Detection with Snort         | Infrastructure Security Lab Environment|
-| Network Segmentation and Virtualization      | Infrastructure Security Lab Environment|
-| Security Monitoring and Incident Simulation                  | Cloud Security Training Environment in AWS|
+| Cloud Security Architecture and Threat Detection          | Cloud Security Training Environment in AWS|
+| Firewall Configuration and Traffic Analysis | Infrastructure Security Lab Environment|
+| Intrusion Detection with Snort         | Infrastructure Security Lab Environment|
+| Network Segmentation and Virtualization      | Infrastructure Security Lab Environment|
+| Security Monitoring and Incident Simulation                  | Cloud Security Training Environment in AWS|
 | Data Visualization and Reporting | Data Internship Dashboard Optimization|
 
+---
 ## 🧰 Tools
 
 ### 🔒 Security Tools
