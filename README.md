@@ -13,7 +13,7 @@ My journey in technology has fueled a growing passion for understanding how syst
 | :--- | :--- | :--- | :--- |
 | **Cloud Security Training Environment in AWS** | **VPC Architecture & GRC Compliance** | Network & Security Lead | [View Project 1](PROJECT-1-AWS.md) |
 | **Infrastructure Security Lab Environment** | **Firewall (OPNsense) & IDS (Snort)** | Virtualization & Security Lead | [View Project 2](PROJECT-2-LAB.md) |
-| **Global Viral Research Defense Center (In Progress)** | Current Group Project | TBD | |
+| **Global Viral Research Defense Center (In Progress)** | Current Group Project | Containment Director (SOC Lead) | |
 
 ---
 
