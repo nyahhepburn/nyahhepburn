@@ -15,7 +15,12 @@ I independently designed and deployed the entire network, focusing on custom def
 
 ### 1. Virtual Architecture & Firewall Deployment
 * **Virtualization:** Designed and deployed the segmented network using **VirtualBox**, featuring a dedicated internal virtual switch (`cyberlab-net`) for all lab machines.
-    * **Screenshot Suggestion:** Include the **Home-to-Lab Network Architecture Blueprint** (Page 2 from your report) here.
+    **
+
+[Image of Network Topology Diagram]
+**
+![AWS Network Topology](assets/CyberLab Network Topology.drawio.png)
+
 * **OPNsense Implementation:** Pivoted from the original plan to **OPNsense** after identifying hardware incompatibilities. I successfully configured the firewall's **WAN and LAN interfaces** to secure the internal network and stabilize the connection between the host and virtual machines.
 * **Troubleshooting:** Solved early **IP conflicts** by switching adapter types and reassigning networks, ensuring the attacker (Kali Linux) could only access the lab through the securely configured OPNsense interface.
 
