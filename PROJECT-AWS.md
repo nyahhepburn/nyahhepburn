@@ -17,7 +17,9 @@ As the **Network & Security Lead**, I was fundamentally responsible for designin
 * **CIDR Plan:** Defined the CIDR plan and logically segmented the environment into **two public and two private subnets** across multiple Availability Zones to ensure high availability and isolation.
 * **Key Networking Components:** Configured all critical networking components, including the Internet Gateway, **NAT Gateways** (for private subnet outbound access), and complex **Route Tables** to control traffic flow between all VPC components.
 * **Troubleshooting:** Successfully resolved initial networking dependencies (IGW resource IDs, duplicate routes) to ensure a stable, resilient foundation for the entire training environment.
-    * **Screenshot Suggestion:** Include the **Network Topology Diagram** (Page 2, Figure 1 from your report) here to visually illustrate the segmentation.
+
+![AWS Cloud Cyber Range Network Topology](assets/p2topology.png)
+**Figure 1:** Network Topology Diagram of the AWS Cyber Range showing the segmented VPC, public/private subnets, and key AWS services (e.g., CloudTrail, GuardDuty) for compliance and monitoring.
 
 ### 2. GRC-Focused Monitoring Implementation
 * **Threat Detection:** Integrated native AWS services, including **GuardDuty** and **CloudTrail**, to monitor for common threats (Port Scans, S3 Exfiltration) within the environment.
