@@ -17,6 +17,7 @@ I independently designed and deployed the entire network, focusing on custom def
 * **Virtualization:** Designed and deployed the segmented network using **VirtualBox**, featuring a dedicated internal virtual switch (`cyberlab-net`) for all lab machines.
 
 ![CyberLab Network Architecture](assets/CyberLabNetworkTopology.drawio.png)
+
 **Figure 1:** Home-to-Lab Network Architecture Blueprint showing the OPNsense firewall routing between the host machine and internal lab machines.
 
 * **OPNsense Implementation:** Pivoted from the original plan to **OPNsense** after identifying hardware incompatibilities. I successfully configured the firewall's **WAN and LAN interfaces** to secure the internal network and stabilize the connection between the host and virtual machines.
